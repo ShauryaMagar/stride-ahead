@@ -4,10 +4,10 @@ const NavBar=()=>{
     <>
         <nav class="navbar navbar-dark bg-dark">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">
+                <span class="navbar-brand">
                 <img src="https://avatars.dicebear.com/api/identicon/example.svg" alt="" width="30" height="24" class="d-inline-block align-text-top"/>
                 Stride Ahead
-                </a>
+                </span>
             </div>
             </nav>
     </>
